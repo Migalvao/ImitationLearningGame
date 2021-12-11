@@ -1,0 +1,56 @@
+{
+    "AgentSetup": {
+        "checkpoints": [
+            {
+                "steps": 110633,
+                "file_path": "results\\IL_map2_7\\AgentSetup\\AgentSetup-110633.onnx",
+                "reward": 2.2999999970197678,
+                "creation_time": 1638736301.7381365,
+                "auxillary_file_paths": [
+                    "results\\IL_map2_7\\AgentSetup\\AgentSetup-110633.pt"
+                ]
+            },
+            {
+                "steps": 499960,
+                "file_path": "results\\IL_map2_7\\AgentSetup\\AgentSetup-499960.onnx",
+                "reward": 2.0,
+                "creation_time": 1638737283.4200578,
+                "auxillary_file_paths": [
+                    "results\\IL_map2_7\\AgentSetup\\AgentSetup-499960.pt"
+                ]
+            },
+            {
+                "steps": 999984,
+                "file_path": "results\\IL_map2_7\\AgentSetup\\AgentSetup-999984.onnx",
+                "reward": 3.0,
+                "creation_time": 1638738239.5989912,
+                "auxillary_file_paths": [
+                    "results\\IL_map2_7\\AgentSetup\\AgentSetup-999984.pt"
+                ]
+            },
+            {
+                "steps": 1471999,
+                "file_path": "results\\IL_map2_7\\AgentSetup\\AgentSetup-1471999.onnx",
+                "reward": 3.0,
+                "creation_time": 1638739147.4225066,
+                "auxillary_file_paths": [
+                    "results\\IL_map2_7\\AgentSetup\\AgentSetup-1471999.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1471999,
+            "file_path": "results\\IL_map2_7\\AgentSetup.onnx",
+            "reward": 3.0,
+            "creation_time": 1638739147.4225066,
+            "auxillary_file_paths": [
+                "results\\IL_map2_7\\AgentSetup\\AgentSetup-1471999.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.10.0+cu102"
+    }
+}

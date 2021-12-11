@@ -1,0 +1,38 @@
+{
+    "AgentSetup": {
+        "checkpoints": [
+            {
+                "steps": 499947,
+                "file_path": "results\\RF_map3_4\\AgentSetup\\AgentSetup-499947.onnx",
+                "reward": 0.0,
+                "creation_time": 1638645161.2683,
+                "auxillary_file_paths": [
+                    "results\\RF_map3_4\\AgentSetup\\AgentSetup-499947.pt"
+                ]
+            },
+            {
+                "steps": 515219,
+                "file_path": "results\\RF_map3_4\\AgentSetup\\AgentSetup-515219.onnx",
+                "reward": 0.0,
+                "creation_time": 1638645185.1906133,
+                "auxillary_file_paths": [
+                    "results\\RF_map3_4\\AgentSetup\\AgentSetup-515219.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 515219,
+            "file_path": "results\\RF_map3_4\\AgentSetup.onnx",
+            "reward": 0.0,
+            "creation_time": 1638645185.1906133,
+            "auxillary_file_paths": [
+                "results\\RF_map3_4\\AgentSetup\\AgentSetup-515219.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.10.0+cu102"
+    }
+}

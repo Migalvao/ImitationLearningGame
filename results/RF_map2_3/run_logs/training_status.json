@@ -1,0 +1,47 @@
+{
+    "AgentSetup": {
+        "checkpoints": [
+            {
+                "steps": 341069,
+                "file_path": "results\\RF_map2_3\\AgentSetup\\AgentSetup-341069.onnx",
+                "reward": 2.4153846135506263,
+                "creation_time": 1638544321.7632656,
+                "auxillary_file_paths": [
+                    "results\\RF_map2_3\\AgentSetup\\AgentSetup-341069.pt"
+                ]
+            },
+            {
+                "steps": 499989,
+                "file_path": "results\\RF_map2_3\\AgentSetup\\AgentSetup-499989.onnx",
+                "reward": 3.0,
+                "creation_time": 1638544677.8908038,
+                "auxillary_file_paths": [
+                    "results\\RF_map2_3\\AgentSetup\\AgentSetup-499989.pt"
+                ]
+            },
+            {
+                "steps": 817481,
+                "file_path": "results\\RF_map2_3\\AgentSetup\\AgentSetup-817481.onnx",
+                "reward": 2.1199999968210856,
+                "creation_time": 1638545310.7168207,
+                "auxillary_file_paths": [
+                    "results\\RF_map2_3\\AgentSetup\\AgentSetup-817481.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 817481,
+            "file_path": "results\\RF_map2_3\\AgentSetup.onnx",
+            "reward": 2.1199999968210856,
+            "creation_time": 1638545310.7168207,
+            "auxillary_file_paths": [
+                "results\\RF_map2_3\\AgentSetup\\AgentSetup-817481.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.10.0+cu102"
+    }
+}

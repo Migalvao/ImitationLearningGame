@@ -1,0 +1,65 @@
+{
+    "AgentSetup": {
+        "checkpoints": [
+            {
+                "steps": 11393004,
+                "file_path": "results\\RF_map3_2\\AgentSetup\\AgentSetup-11393004.onnx",
+                "reward": 0.0,
+                "creation_time": 1638643116.514019,
+                "auxillary_file_paths": [
+                    "results\\RF_map3_2\\AgentSetup\\AgentSetup-11393004.pt"
+                ]
+            },
+            {
+                "steps": 11499946,
+                "file_path": "results\\IL_map3_3\\AgentSetup\\AgentSetup-11499946.onnx",
+                "reward": null,
+                "creation_time": 1638833349.339604,
+                "auxillary_file_paths": [
+                    "results\\IL_map3_3\\AgentSetup\\AgentSetup-11499946.pt"
+                ]
+            },
+            {
+                "steps": 11999939,
+                "file_path": "results\\IL_map3_3\\AgentSetup\\AgentSetup-11999939.onnx",
+                "reward": 0.0,
+                "creation_time": 1638834565.3200088,
+                "auxillary_file_paths": [
+                    "results\\IL_map3_3\\AgentSetup\\AgentSetup-11999939.pt"
+                ]
+            },
+            {
+                "steps": 12499976,
+                "file_path": "results\\IL_map3_3\\AgentSetup\\AgentSetup-12499976.onnx",
+                "reward": 0.7999999970197678,
+                "creation_time": 1638835762.1602442,
+                "auxillary_file_paths": [
+                    "results\\IL_map3_3\\AgentSetup\\AgentSetup-12499976.pt"
+                ]
+            },
+            {
+                "steps": 12958147,
+                "file_path": "results\\IL_map3_3\\AgentSetup\\AgentSetup-12958147.onnx",
+                "reward": null,
+                "creation_time": 1638836826.7683358,
+                "auxillary_file_paths": [
+                    "results\\IL_map3_3\\AgentSetup\\AgentSetup-12958147.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 12958147,
+            "file_path": "results\\IL_map3_3\\AgentSetup.onnx",
+            "reward": null,
+            "creation_time": 1638836826.7683358,
+            "auxillary_file_paths": [
+                "results\\IL_map3_3\\AgentSetup\\AgentSetup-12958147.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.10.0+cu102"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "AgentSetup": {
+        "checkpoints": [
+            {
+                "steps": 232223,
+                "file_path": "results\\IL_map3_1\\AgentSetup\\AgentSetup-232223.onnx",
+                "reward": null,
+                "creation_time": 1638745601.674671,
+                "auxillary_file_paths": [
+                    "results\\IL_map3_1\\AgentSetup\\AgentSetup-232223.pt"
+                ]
+            },
+            {
+                "steps": 499992,
+                "file_path": "results\\IL_map3_1\\AgentSetup\\AgentSetup-499992.onnx",
+                "reward": 0.0,
+                "creation_time": 1638748057.4682693,
+                "auxillary_file_paths": [
+                    "results\\IL_map3_1\\AgentSetup\\AgentSetup-499992.pt"
+                ]
+            },
+            {
+                "steps": 999976,
+                "file_path": "results\\IL_map3_1\\AgentSetup\\AgentSetup-999976.onnx",
+                "reward": 0.0,
+                "creation_time": 1638749020.7778234,
+                "auxillary_file_paths": [
+                    "results\\IL_map3_1\\AgentSetup\\AgentSetup-999976.pt"
+                ]
+            },
+            {
+                "steps": 1007113,
+                "file_path": "results\\IL_map3_1\\AgentSetup\\AgentSetup-1007113.onnx",
+                "reward": -0.26666667064030963,
+                "creation_time": 1638749034.9868047,
+                "auxillary_file_paths": [
+                    "results\\IL_map3_1\\AgentSetup\\AgentSetup-1007113.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1007113,
+            "file_path": "results\\IL_map3_1\\AgentSetup.onnx",
+            "reward": -0.26666667064030963,
+            "creation_time": 1638749034.9868047,
+            "auxillary_file_paths": [
+                "results\\IL_map3_1\\AgentSetup\\AgentSetup-1007113.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.10.0+cu102"
+    }
+}
